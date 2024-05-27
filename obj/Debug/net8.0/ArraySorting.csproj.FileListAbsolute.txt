@@ -1,0 +1,14 @@
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\bin\Debug\net8.0\ArraySorting.exe
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\bin\Debug\net8.0\ArraySorting.deps.json
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\bin\Debug\net8.0\ArraySorting.runtimeconfig.json
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\bin\Debug\net8.0\ArraySorting.dll
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\bin\Debug\net8.0\ArraySorting.pdb
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\obj\Debug\net8.0\ArraySorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\obj\Debug\net8.0\ArraySorting.AssemblyInfoInputs.cache
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\obj\Debug\net8.0\ArraySorting.AssemblyInfo.cs
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\obj\Debug\net8.0\ArraySorting.csproj.CoreCompileInputs.cache
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\obj\Debug\net8.0\ArraySorting.dll
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\obj\Debug\net8.0\refint\ArraySorting.dll
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\obj\Debug\net8.0\ArraySorting.pdb
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\obj\Debug\net8.0\ArraySorting.genruntimeconfig.cache
+C:\Users\mohit.sarraf\source\repos\ArraySorting\ArraySorting\obj\Debug\net8.0\ref\ArraySorting.dll
